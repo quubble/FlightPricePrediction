@@ -54,7 +54,9 @@ The dataset contains flight booking details including:
    git clone https://github.com/sahithimeneni06/FlightPricePrediction.git
    cd FlightPricePrediction
 
-
+2.    Install all the dependencies:
+      ```
+      pip install -r requirements.txt
 
 ### 📊 Dataset: `Flight_Booking.csv`
 
